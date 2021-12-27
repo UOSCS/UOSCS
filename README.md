@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUOSCS&count_bg=%23BE2B5B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-\> [RESUME](https://github.com/UOSCS/UOSCS/blob/main/resume.pdf) <
+\> [RESUME](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f1cc5d41-0b1e-4538-b4f2-616f889071eb/resume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T031358Z&X-Amz-Expires=86400&X-Amz-Signature=b2e811233c0e6cd565b690cedc4269de655db95403e49469ddab25cad5f23b39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22resume.pdf%22&x-id=GetObject) <
