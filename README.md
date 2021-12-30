@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUOSCS&count_bg=%23BE2B5B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-\> [RESUME](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f1cc5d41-0b1e-4538-b4f2-616f889071eb/resume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211228T235700Z&X-Amz-Expires=86400&X-Amz-Signature=19c523f7741fdb942e4e5e9e0eb127d3d1f513fd2e5b6134408cbb3d26451ddd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22resume.pdf%22&x-id=GetObject) <
+\> [RESUME](https://leegwanh-bucket.s3.ap-northeast-2.amazonaws.com/resume.pdf) <
