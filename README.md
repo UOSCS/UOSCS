@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUOSCS&count_bg=%23BE2B5B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-\> [RESUME](https://leegwanh-bucket.s3.ap-northeast-2.amazonaws.com/resume.pdf) <
+\> [RESUME](https://drive.google.com/file/d/1-Xj5LtT4dT-GRlIYkIB7M_hjdrA6__uA/view?usp=sharing) <
